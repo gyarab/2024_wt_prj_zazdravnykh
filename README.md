@@ -9,3 +9,6 @@ Systém přihlášení a registrace umožní uživatelům vytvářet osobní ú�
 
 # Wireframe
 ![photo_2025-01-16_20-27-31](https://github.com/user-attachments/assets/94a7b8f3-ea70-4c8d-b725-48a92e4071ec)
+
+# DB schema
+![](https://github.com/gyarab/2024_wt_prj_zazdravnykh/blob/main/DB%20diagramm.png)
